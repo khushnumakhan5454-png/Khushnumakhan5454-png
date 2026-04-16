@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Pizza Sales Project](https://drive.google.com/file/d/1c6gOpL5egZ8TcA5C-8rdFmv2zzTqrbz7/view?usp=drive_link)
 
-- 🌱 I’m currently learning **SQL,Python,Power BI,Tableau,Excel,Statistics,cisco data analytics essential**
+- 🌱 I’m currently learning **SQL,Python,Power BI,Tableau,Excel,Statistics,Google data analytics course**
 
 - 👯 I’m looking to collaborate on [Data analysis and visualization Project](https://github.com/khushnumakhan5454-png)
 
